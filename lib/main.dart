@@ -8,6 +8,8 @@ void main() {
   runApp(const MyApp());
 }
 
+//ini komentar
+
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
 
